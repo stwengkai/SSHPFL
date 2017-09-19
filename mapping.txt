@@ -1,0 +1,2 @@
+LPort1,数据库连接地址,RPort1
+LPort2,数据库连接地址,RPort2
